@@ -1,0 +1,22 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+
+input{
+    outline: none;
+}
+select{
+    outline: none;
+}
+
+select{
+    padding: 4px;
+}
+
+#done{
+    text-decoration: line-through;
+    color: rgba(0, 0, 0, 0.434);
+}
+
